@@ -1,7 +1,7 @@
 <script>
   import { composeAPI } from "@iota/core";
 
-  let iotanode = "https://community.tanglebay.org";
+  let iotanode = "https://nodes.thetangle.org:443";
 
   getNodeInfo();
   function getNodeInfo() {
@@ -36,6 +36,6 @@
 <input
   bind:value={iotanode}
   on:input={getNodeInfo}
-  placeholder="https://community.tanglebay.org" />
+  placeholder="https://nodes.thetangle.org:443" />
 
 <pre>Nodeinfo: {nodeinfo}</pre>

@@ -18,6 +18,6 @@
     "dev": "webpack-dev-server --content-base public"
   },
   "dependencies": {
-    "@iota/core": "^1.0.0-beta.27"
+    "@iota/core": "^1.0.0-beta.30"
   }
 }

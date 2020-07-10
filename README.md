@@ -1,5 +1,8 @@
 # svelte app
 
+Example: https://thoralf-m.github.io/svelte-iota.js/
+
+
 This is a project template for [Svelte](https://svelte.dev) apps with [iota.js](https://github.com/iotaledger/iota.js). Forked from https://github.com/sveltejs/template-webpack.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
